@@ -1,6 +1,6 @@
 ToDoList App
-Overview
-This is a simple To-Do List application created using HTML, CSS, and JavaScript. It allows users to manage their tasks and keep track of their daily activities easily.
+**Overview
+**This is a simple To-Do List application created using HTML, CSS, and JavaScript. It allows users to manage their tasks and keep track of their daily activities easily.
 
 Features
 Add Tasks: Quickly add new tasks to the to-do list.
