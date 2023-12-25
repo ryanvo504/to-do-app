@@ -33,6 +33,12 @@ listContainer.addEventListener("click", function(e)
     }
 }, false);
 
+inputBox.addEventListener("keydown", function(e)
+{
+    if (e.keyCode === 13)
+        addTask();
+}, false);
+
 function saveData()
 {
     localStorage.setItem("data", listContainer.innerHTML);
